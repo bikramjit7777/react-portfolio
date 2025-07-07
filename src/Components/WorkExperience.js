@@ -55,144 +55,32 @@ export default function WorkExperience() {
               <h5>Roles & Responsibilities</h5>
               <ul>
                 <li>
-                  <strong>Proficiency in ReactJS and NodeJS: </strong>
-                  
-                    Leveraged advanced proficiency in ReactJS and NodeJS to
-                    develop and maintain web applications with robust
-                    functionality and performance.
-                    
+                  Designed and developed full-stack web app using ReactJS and NodeJS.
                 </li>
                 <li>
-                  <strong>
-                    Lead Developer for Electrical Heat Trace Management Website: </strong>
                   
-                      Spearheaded the development of an electrical heat trace
-                      management website, demonstrating leadership and expertise
-                      in web development.
-                    
+Integrated JWT-based user authentication and 3rd party APIs for feature enhancement.
                 </li>
                 <li>
-                  <strong>
-                    Full Stack Development Using ReactJS, NodeJS, Typescript,
-                    and Redux: </strong>
-                  
-                      Utilized ReactJS, NodeJS, Typescript, and Redux for state
-                      management to architect and implement scalable and
-                      efficient solutions for web applications.
                     
+Enhanced database performance by 30% via optimized PostgreSQL queries.
                 </li>
                 <li>
-                  <strong>Expertise in Redux Middleware: </strong>
                   
-                      Implemented Redux middleware, including Redux-Saga, to
-                      manage asynchronous actions and side effects effectively
-                      within the application.
+Improved app load speed by 25% through Redis caching and frontend optimizations.
                    
                 </li>
                 <li>
-                  <strong>Database Management with SQL (Postgres): </strong>
                   
-                      Managed SQL databases, specifically Postgres, ensuring
-                      data integrity and optimal performance for the
-                      application. Enhanced database performance by optimizing
-                      queries, reducing query execution time by{" "}
-                      <strong>30%</strong>.
+Conducted code reviews and contributed to CI/CD setup with Docker and AWS.
                     
                 </li>
                 <li>
-                  <strong>Proficient with Essential Software Tools: </strong>
                   
-                      Utilized essential software tools on a daily basis,
-                      including Git, GitHub, Jira, Microsoft Teams, Postman, and
-                      Visual Studio Code, to streamline development processes
-                      and collaboration.
-                    
+Tools/Tech: <strong>React, Redux, Redux-Saga, SCSS, Material UI, Victory Charts, Knex, PostgreSQL, AWS, Docker, Webpack,
+Formik, Yup, Redis, ESLint, WebSockets, Immutable.js, Git, Github.</strong>
                 </li>
-                <li>
-                  <strong>Integration of npm Packages: </strong>
-                  
-                      Integrated various npm packages, such as Mui Material
-                      Design, Immutable.js, Yup, Victory, and others, to enhance
-                      the functionality and user experience of web applications.
-                    
-                </li>
-                <li>
-                  <strong>
-                    Implementation of User Authorization with JWT: </strong>
-                  
-                      Implemented user authorization using JSON Web Tokens (JWT)
-                      to secure access and maintain user authentication within
-                      the application.
-                    
-                </li>
-                <li>
-                  <strong>
-                    Software Testing with Jest and React Testing Library: </strong>
-                  
-                      Conducted unit testing and integration testing of software
-                      components using Jest and React Testing Library to ensure
-                      code quality and reliability.
-                    
-                </li>
-                <li>
-                  <strong>Backend Restful API Development: </strong>
-                  
-                      Developed RESTful APIs using NodeJS and PostgreSQL,
-                      facilitating seamless communication between frontend and
-                      backend components.
-                    
-                </li>
-                <li>
-                  <strong>Codebase Optimization: </strong>
-                 
-                      Optimized the codebase and implemented caching strategies,
-                      resulting in a <strong>25%</strong> increase in
-                      application performance.
-                    
-                </li>
-                <li>
-                  <strong>Data Visualization: </strong>
-                  
-                      Implemented data visualization using different chart
-                      libraries, enhancing the presentation and interpretation
-                      of complex data sets within the application.
-                    
-                </li>
-                <li>
-                  <strong>Production-Grade Software Development: </strong>
-                  
-                      Contributed to the development and testing of
-                      production-grade software, ensuring adherence to quality
-                      standards and project requirements.
-                    
-                </li>
-                <li>
-                  <strong>Collaborative Project Participation: </strong>
-                  
-                      Actively participated in Agile Software Development
-                      methodology, including project planning (sprint),
-                      retrospective, daily stand-up meetings, and other
-                      project-related discussions.
-                    
-                </li>
-                <li>
-                  <strong>Documentation and Recordkeeping: </strong>
-                  
-                      Documented and recorded all development steps and APIs,
-                      ensuring comprehensive documentation for future reference
-                      and maintenance.
-                   
-                </li>
-                <li>
-                  <strong>Peer Code Reviews and Feedback: </strong>
-                  
-                      Engaged in peer code reviews, providing relevant feedback
-                      and suggestions to maintain code quality and promote best
-                      practices within the development team. Participated in
-                      comprehensive code reviews and reducing bugs in production
-                      by <strong>30%</strong>.
-                    
-                </li>
+                
               </ul>
             </section>
 
@@ -248,16 +136,17 @@ export default function WorkExperience() {
           <h2 style={{ textAlign: "center" }}>SUMMARY OF SKILLS</h2>
           <br />
           <ul>
-            <li>
-              <strong>Proficiency with MERN Stack:</strong> Demonstrated
-              experience with MongoDB, Express, React, and Node, leveraging
-              these technologies to build robust and scalable web applications.
-            </li>
+            
             <li>
               <strong>Frontend and Backend Expertise:</strong> Well-developed
               knowledge of frontend and backend technologies including React,
               NodeJS, and JavaScript (ES6), ensuring efficient development and
               implementation of features.
+            </li>
+            <li>
+              <strong>Proficiency with MERN Stack:</strong> Demonstrated
+              experience with MongoDB, Express, React, and Node, leveraging
+              these technologies to build robust and scalable web applications.
             </li>
             <li>
               <strong>Full Stack Development Skills:</strong> Proficient in

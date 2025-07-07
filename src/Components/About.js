@@ -23,7 +23,7 @@ const About = () => {
 
     return roundedYears;
   }
-  const yearsSinceNovember2021 = calculateYearsFromDate("2021-02-01");
+  const yearsSinceNovember2021 = calculateYearsFromDate("2021-06-01");
 
   return (
     <div id="aboutMe" style={{ marginTop: "100px" }}>
