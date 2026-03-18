@@ -6,6 +6,7 @@ import shopping from "@iconify/icons-bi/shop";
 import bakery from "@iconify/icons-bi/shop-window";
 import recipe from "@iconify/icons-bi/receipt";
 import fitness from "@iconify/icons-bi/gear";
+import github from "@iconify/icons-bi/github";
 
 const Projects = () => {
   return (
@@ -22,6 +23,32 @@ const Projects = () => {
             </div>
           </div>
           <div className="row">
+
+            <div className="col-md-4">
+              <div className="service-box">
+                <div className="service-ico">
+                  <span className="ico-circle">
+                    <Icon icon={github} />
+                    <i className="bi bi-bar-chart"></i>
+                  </span>
+                </div>
+                <div className="service-content">
+                  <h2 className="s-title">My Projects on Github</h2>
+                  <h3 className="ss-title">Personal projects</h3>
+                  <p className="s-description text-center">
+                    Checkout my more Projects on Github utilizing AI models, Langchain, LangGraph, Multi-Agents, Vector databases, RAG, Python, and NextJS. 
+                  </p>
+                  <strong>
+                    <a
+                      target="_blank"
+                      href="https://github.com/bikramjit7777"
+                    >
+                      Visit Website
+                    </a>
+                  </strong>
+                </div>
+              </div>
+            </div>
 
             <div className="col-md-4">
               <div className="service-box">

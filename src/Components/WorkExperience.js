@@ -10,7 +10,7 @@ export default function WorkExperience() {
             <br />
 
             <h3>Software Developer</h3>
-            <h5>Lynk Remote Technologies &nbsp; (July 2024 - May 2025)</h5>
+            <h5>Lynk Remote Technologies &nbsp; (July 2024 - Present)</h5>
             <br />
             <section>
               <h5>Roles & Responsibilities</h5>
@@ -85,7 +85,7 @@ Formik, Yup, Redis, ESLint, WebSockets, Immutable.js, Git, Github.</strong>
             </section>
 
             <br />
-            <h3>Junior Web Developer</h3>
+            <h3>Web Developer</h3>
             <h5>AceWebx &nbsp; (June 2019 - May 2020)</h5>
             <br />
             <section>

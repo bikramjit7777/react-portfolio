@@ -23,6 +23,10 @@ const techStack = [
     name: "PostgreSQL",
     img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
   },
+  {
+    name: 'AI',
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svgo/svgo-original.svg"
+  }
 ]
 
 class Intro extends React.Component {
@@ -70,7 +74,6 @@ class Intro extends React.Component {
                         className="mb-1"
                       />
                       <p className="text-sm text-white">{tech.name}</p>
-                      {/* <span className="text-sm text-white">{tech.name}</span> */}
                     </div>
                   ))}
                 </div>
