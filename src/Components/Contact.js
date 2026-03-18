@@ -108,7 +108,7 @@ const Contact = () => {
                         <ul className="list-ico">
                           <li>
                             <span className="bi bi-geo-alt"></span>
-                            Kitchener, Ontario, Canada
+                            Ontario, Canada
                           </li>
 
                           <li>

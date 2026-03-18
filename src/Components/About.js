@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../assets/images/bikram2.jpg";
+import image from "../assets/images/bikram-anime.png";
 
 const About = () => {
   function calculateYearsFromDate(startDate) {
@@ -23,7 +23,7 @@ const About = () => {
 
     return roundedYears;
   }
-  const yearsSinceNovember2021 = calculateYearsFromDate("2021-06-01");
+  const yearsSinceJune2021 = calculateYearsFromDate("2021-06-01");
 
   return (
     <div id="aboutMe" style={{ marginTop: "100px" }}>
@@ -48,7 +48,7 @@ const About = () => {
                   </p>
                   <p>
                     <span className="title-s">Profile: </span>{" "}
-                    <span>Software developer</span>
+                    <span>Software Developer</span>
                   </p>
                   <p>
                     <span className="title-s">Email: </span>{" "}
@@ -121,7 +121,7 @@ const About = () => {
                 <h5 className="title-left">ABOUT ME</h5>
               </div>
               <p className="lead">
-                I have <b>{yearsSinceNovember2021}+ years</b> of professional
+                I have <b>{yearsSinceJune2021}+ years</b> of professional
                 experience as a <b>Software Developer</b>, specializing in{" "}
                 <b>ReactJS, NodeJS, JavaScript, TypeScript,</b>and{" "}
                 <b>PostgreSQL.</b>
